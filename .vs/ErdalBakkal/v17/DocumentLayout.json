@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\303\\source\\repos\\ErdalBakkal\\",
+  "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\DizIslemleri_ErdalBakkal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B931E339-2DD1-4BD6-A775-3A4D121D1B2C}|ErdalBakkal\\ErdalBakkal.csproj|c:\\users\\303\\source\\repos\\erdalbakkal\\erdalbakkal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B931E339-2DD1-4BD6-A775-3A4D121D1B2C}|ErdalBakkal\\ErdalBakkal.csproj|c:\\users\\303\\documents\\github\\dizislemleri_erdalbakkal\\erdalbakkal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B931E339-2DD1-4BD6-A775-3A4D121D1B2C}|ErdalBakkal\\ErdalBakkal.csproj|solutionrelative:erdalbakkal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\303\\source\\repos\\ErdalBakkal\\ErdalBakkal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DizIslemleri_ErdalBakkal\\ErdalBakkal\\Program.cs",
               "RelativeDocumentMoniker": "ErdalBakkal\\Program.cs",
-              "ToolTip": "C:\\Users\\303\\source\\repos\\ErdalBakkal\\ErdalBakkal\\Program.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\DizIslemleri_ErdalBakkal\\ErdalBakkal\\Program.cs",
               "RelativeToolTip": "ErdalBakkal\\Program.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T09:28:27.803Z",
               "EditorCaption": ""
